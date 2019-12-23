@@ -2,7 +2,7 @@ package com.aice.threadtest.test1.model;
 
 import java.util.List;
 
-public class TestModel {
+public class TestModelOne {
     private int num;
     private List<Integer> integerList;
 
